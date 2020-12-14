@@ -13,3 +13,5 @@ Selenium: https://selenium-python.readthedocs.io/
 BeautifulSoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 And converts and stores the result as a .csv file
+
+<!!!> Change chrome driver file path to path of your chrome driver before running
