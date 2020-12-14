@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as soup
 #customising options for driver
 options = webdriver.ChromeOptions()
 options.add_argument("--lang=en")
-driver = webdriver.Chrome('/Users/calvintsang/Desktop/chromedriver', options=options)
+driver = webdriver.Chrome('insert chromedriver filepath here', options=options)
 
 #target url
 my_url = "https://www.google.com/maps/search/frankfurt+bornheim+businesses/@50.1204283,8.7095445,15z"
