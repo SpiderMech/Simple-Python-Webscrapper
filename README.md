@@ -4,6 +4,7 @@ Scrapes Google Maps for Company Details in Frankfurt
 Project name: Frankfurt Bornheim Business Webscrapepr
 
 Author: Calvin Che Tsang
+
 This is a very simple webscrapper designed to scrape Google Maps for details of businesses in Frankfurt Bornheim
 
 It makes use of two libraries:
